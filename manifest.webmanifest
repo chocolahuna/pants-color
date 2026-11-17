@@ -1,0 +1,32 @@
+{
+  "id": "./index.html",
+  "name": "ハァハァ、お姉さんパンツ何色？",
+  "short_name": "パンツ何色？",
+  "description": "HEX・RGB・RGBA・CMYK・Lab・HSBと日本の伝統色名を変換できるカラーピッカー。",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101117",
+  "theme_color": "#101117",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
